@@ -9,7 +9,7 @@ Proyecto realizado para el módulo de Desarrollo Web en OpenBootcam. He realizad
 <!-- * [Porfolio web](muy pronto) -->
 
 ## Ver ejemplo en vivo 
-- [https://github.com/FacundoTorres93?tab=repositories](https://github.com/FacundoTorres93?tab=repositories)
+- [https://facundotorres93.github.io/Pagina-Web-HTML-CSS/](https://facundotorres93.github.io/Pagina-Web-HTML-CSS/)
 
 ## Instalación 
 No se necesita de instalaciones previas para este proyecto. Simplemente abrir la carpeta o hacer doble click en el .html
